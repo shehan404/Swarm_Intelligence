@@ -10,7 +10,7 @@
 
 ![pso9](https://github.com/shehan404/Swarm_Intelligence/assets/116341155/50122993-1695-421a-ad70-4feb5266c4c2)
 
-* This repository contains a simulation of swarms attempting to locate and attract food sources.
+* This repository contains a simulation of swarms attempting to locate and attract a food source.
 
 https://github.com/shehan404/Swarm_Intelligence/assets/116341155/bf26229b-89f2-4527-ae34-b4eb774180cf
 
