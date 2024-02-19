@@ -1,4 +1,4 @@
-# Swarm_Intelligence
+# Swarm Intelligence
 
 * Swarm intelligence is a collective behavior observed in decentralized, self-organized systems, particularly in natural systems like ant colonies, bird flocks, fish schools, and bee hives. These systems demonstrate emergent properties arising from interactions between individuals following simple rules, resulting in complex, coordinated behavior at the group level.
 
